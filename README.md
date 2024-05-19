@@ -7,7 +7,7 @@ The main objective of this dissertation work is to create a dashboard for monito
 ● To create an architecture for storing and retrieving data.
 ● To create a dashboard addressing all the business questions.
 
-## SYSTEM DESOGN
+## SYSTEM DESIGN
 
 The data is continuously published from the sensors attached to the inhabitants in the care home . The data is transformed using the standard encoder and is passed to the classification model. The classification model predicts the activity from the feature input and the activity along with the timestamp and unique ID is saved in the database. A dynamic dashboard is connected to the database and it serves for the user interaction. The database mainly collects and stores 3 different sorts of data. One holds information about the resident, another the sensor collected data i.e., activity tracking, and the third is manual data input by staff or carer in the care facility.
 
