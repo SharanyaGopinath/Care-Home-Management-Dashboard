@@ -17,4 +17,4 @@ Attaching sensors and collecting data in real time requires a lot of permissions
 ## ABOUT THE DASHBOARD
 The dashboard is created mainly for care home management. 10 fictional residents' 1 month activity data and manually entered information by a carer or staff member are gathered and maintained in a database. The data is then automatically transferred from the database to the PowerBI platform and visually analysed. There are actually two dashboards. One dashboard i.e. the Main dashboard , that would display general information such as resident details, upcoming appointments, and a summary of their daily activities, including their intake of food and water and other bodily functions while the other dashboard i.e. the Individual dashboard  will display each resident's activity and other bodily functions over time.
 
-Kindly check the read me doc and programming code pdf for more details
+Kindly check the project details doc and programming code pdf for more details
